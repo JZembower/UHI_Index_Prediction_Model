@@ -5,7 +5,7 @@
 This GitHub Repo contains Jonah Zembower and Benjamin Nicholson's work from the EY Data Challenge 2025: Predicting Urban Heat Islands. 
 We built a predictive machine learning model to identify Urban Heat Islands (UHI) using remote sensing and iterative Machine Learning pipelines.
 Over the source of the project we leveraged a variety of satellite imagery, geospatial data, and machine learning models to accurately predict UHI values.
-You can find the final model documentations in the Model folder as Final_Model (detailed process of analysis) or nyc_notebook (focused specifically on the model).
+You can find the final model documentation in the [Model folder](Model/Final_Model.ipynb) as `Final_Model.ipynb` (detailed process of analysis) or `nyc_notebook` (focused specifically on the model).
 
 Our model achieved a final accuracy of 0.9606, ranking 86th globally out of over two thousand participants. ![Model Accuracy Ranking](images_readme/model_ranking.png)
 
@@ -48,9 +48,9 @@ The below is the heatmap that we have created from our model with a 96.06% accur
 ![UHI Prediction](images_readme/temperature_values.png)
 
 ## Achievements
-- Ranked 86th globally with an accuracy of 0.9606
-- Presented findings at Seton Hill University Research Conference
-- Entered in Seton Hill Pitch Competition
+- Ranked 86th globally with an accuracy of 0.9606.
+- Presented findings at Seton Hill University Research Conference.
+- Entered in Seton Hill Pitch Competition.
 
 ## Reflections
 This project presented the power of big data and machine learning and its applications in climate science. 
