@@ -58,3 +58,5 @@ This has opened the world of data science in climate tech and I look forward to 
 ## Contributors
 - Benjamin Nicholson
 - Jonah Zembower
+
+![Certificate](images_readme/EY_Certificate.png)
